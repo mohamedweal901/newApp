@@ -1,0 +1,2 @@
+# newApp
+show live news 
